@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spongebobify</string>
+    <string name="spongebobify_button">Spongebobify</string>
+    <string name="enter_text_to_spongebobify_label">Enter text to spongebobify</string>
+</resources>
